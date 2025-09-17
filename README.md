@@ -1,1 +1,1 @@
-"# mt2" 
+Właściciel projektu: Kamil Skoworodkin
